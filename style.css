@@ -6,7 +6,7 @@
     display: flex;
     gap: 80px;
     justify-content: space-between;
-    background-color: orange;
+    background-color:powderblue;
     padding: 20px 50px;
     align-items: center;
 
@@ -34,7 +34,7 @@
 .hero button{
     margin-left: 20px;
     margin-top: 30px;
-    background-color: orange;
+    background-color:powderblue;
     border:none;
     font-size: 32px;
     border-radius: 5px;
@@ -47,13 +47,13 @@
 .child2 img{
     margin: 40px;
     border-radius: 1000px;
-    background-color: orange;
+    background-color: powderblue;
 
 
 }
 .footer{
     margin-top: 20px;
-    background-color: orange;
+    background-color: powderblue;
     padding: 40px 80px;
     text-align: center;
 
